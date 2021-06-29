@@ -16,8 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.stripe.Stripe;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
-@RequestMapping(value = "api/pagamento")
+@RequestMapping(value = "/api")
 public class StripeController {
     // create a Gson object
     private static Gson gson = new Gson();

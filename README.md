@@ -1,3 +1,3 @@
-# stripe
+# Stripe
 
 Micro Servizio Progetto Sistemi distribuiti 2020/2021
